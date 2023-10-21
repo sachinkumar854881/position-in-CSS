@@ -1,0 +1,62 @@
+*{
+    text-align:center;
+    font-family: comic sans ms;
+    box-sizing:border-box;
+}
+.container1{
+    border:2px solid #F9CC9D;;
+    width:400px;
+    height:300px;
+    margin:30px;
+    background-color:#F9CC9D;
+}
+.container2{
+    border:2px solid #FDDD9B;
+    width:300px;
+    height:200px;
+    margin:50px;
+    background-color:#FDDD9B;
+}
+.first{
+    border:2px solid  #C2CF8A;
+    width:200px;
+    height:100px;
+    margin:50px;
+    background-color: #C2CF8A;
+}
+h1{
+    border:2px solid #8BB5C0;
+    width:145px;
+    height:50px;
+    background-color:#8BB5C0;
+    margin:25px;  
+}
+
+.content{
+    border:2px solid #8BB5C0;
+    width:50px;
+    height:50px;
+    background-color:#8BB5C0;
+    margin-left:200px;  
+}
+.padding{
+    border:2px solid  #C2CF8A;
+    width:50px;
+    height:50px;
+    background-color: #C2CF8A;
+    margin-left:200px;  
+}
+.border{
+    border:2px solid #FDDD9B;
+    width:50px;
+    height:50px;
+    background-color:#FDDD9B;
+    margin-left:200px;  
+}
+.margin{
+    border:2px solid #F9CC9D;
+    width:50px;
+    height:50px;
+    background-color:#F9CC9D;
+    margin-left:200px;  
+}
